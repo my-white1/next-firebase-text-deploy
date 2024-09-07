@@ -5,6 +5,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <h1 className="text-3xl font-bold">Next.Js test deploy</h1>
         <h2 className="text-3xl font-bold">Now on github</h2>
+        <h2 className="text-3xl font-bold">Ohhh 🙀, really</h2>
       </main>
     </div>
   );
