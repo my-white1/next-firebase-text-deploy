@@ -1,0 +1,21 @@
+[debug] [2024-09-07T06:44:34.906Z] ----------------------------------------------------------------------
+[debug] [2024-09-07T06:44:34.910Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ROG\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2024-09-07T06:44:34.911Z] CLI Version:   13.16.0
+[debug] [2024-09-07T06:44:34.912Z] Platform:      win32
+[debug] [2024-09-07T06:44:34.912Z] Node Version:  v20.15.1
+[debug] [2024-09-07T06:44:34.912Z] Time:          Sat Sep 07 2024 11:44:34 GMT+0500 (Узбекистан, стандартное время)
+[debug] [2024-09-07T06:44:34.913Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-07T06:44:34.925Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-07T06:44:34.926Z] > authorizing via signed-in user (mywhite060608@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\next_js\experiments\next-firebase-text-deploy\test-deploy-next
+
