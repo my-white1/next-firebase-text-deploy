@@ -6,6 +6,7 @@ export default function Home() {
         <h1 className="text-3xl font-bold">Next.Js test deploy</h1>
         <h2 className="text-3xl font-bold">Now on github</h2>
         <h2 className="text-3xl font-bold">Ohhh 🙀, really</h2>
+        <h2 className="text-3xl font-bold">Yeah</h2>
       </main>
     </div>
   );
